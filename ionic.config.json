@@ -1,0 +1,7 @@
+{
+  "name": "Fedesoft_Ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
